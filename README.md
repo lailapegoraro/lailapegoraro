@@ -73,5 +73,3 @@ Laila Pegoraro:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-E63946?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN-AQUI)
 [![GitHub](https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lailapegoraro)
-
-*"Dado bagunçado é só ruído — eu organizo até virar decisão." 🖤*
