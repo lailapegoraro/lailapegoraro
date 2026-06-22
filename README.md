@@ -9,7 +9,7 @@
 
 ## 🖤 Sobre mim
 
-📊 Gosto de mexer com **dados** — entender de onde eles vêm, arrumar a bagunça e deixar tudo organizado de um jeito que faça sentido pra alguém usar depois. Curiosa por natureza, estou sempre aprendendo coisa nova: hoje meu foco é evoluir em **SQL e Python para análise de dados**, e também explorar como **IA e automação** podem facilitar a vida de quem trabalha com relatórios no dia a dia.
+📊 Gosto de mexer com **dados**: entender de onde eles vêm, arrumar a bagunça e deixar tudo organizado de um jeito que faça sentido pra alguém usar depois. Curiosa por natureza, estou sempre aprendendo coisa nova: hoje meu foco é evoluir em **SQL e Python para análise de dados**, e também explorar como **IA e automação** podem facilitar a vida de quem trabalha com relatórios no dia a dia.
 
 ```yaml
 Laila Pegoraro:
